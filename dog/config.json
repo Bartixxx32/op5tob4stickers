@@ -1,0 +1,131 @@
+{
+  "parts": {
+    "ear": {
+      "position": {
+        "index": 43,
+        "x": 0,
+        "y": -130,
+        "z": -120,
+        "type": 0
+      },
+      "rotate": {
+        "index": 43,
+        "x": 0,
+        "y": -130,
+        "type": 1
+      },
+      "scale": {
+        "x": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        },
+        "y": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        }
+      },
+      "zPosition": 1,
+      "frameCount": 21,
+      "stickerCount": 21,
+      "width": 750,
+      "height": 413,
+      "loopType": 0,
+      "loopCount": -1,
+      "triggerStart": 0,
+      "triggerStop": 2
+    },
+    "hand": {
+      "position": {
+        "index": 16,
+        "x": 0,
+        "y": 140,
+        "z": -150,
+        "type": 0
+      },
+      "rotate": {
+        "index": 16,
+        "x": 0,
+        "y": 140,
+        "type": 1
+      },
+      "scale": {
+        "x": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        },
+        "y": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        }
+      },
+      "zPosition": 2,
+      "frameCount": 21,
+      "stickerCount": 21,
+      "width": 810,
+      "height": 229,
+      "loopType": 0,
+      "loopCount": -1,
+      "triggerStart": 0,
+      "triggerStop": 2
+    },
+    "nose": {
+      "position": {
+        "index": 46,
+        "x": 0,
+        "y": 16,
+        "z": -30,
+        "type": 0
+      },
+      "rotate": {
+        "index": 46,
+        "x": 0,
+        "y": 16,
+        "type": 1
+      },
+      "scale": {
+        "x": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        },
+        "y": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        }
+      },
+      "zPosition": 3,
+      "frameCount": 21,
+      "stickerCount": 21,
+      "width": 137,
+      "height": 225,
+      "loopType": 0,
+      "loopCount": -1,
+      "triggerStart": 0,
+      "triggerStop": 2
+    }
+  },
+  "sections": [
+    {
+      "name": "s0",
+      "partslist": [
+        "ear",
+        "hand",
+        "nose"
+      ]
+    }
+  ],
+  "statemachine": [],
+  "initSectionName": "s0",
+  "version": "1.0"
+}

@@ -1,0 +1,174 @@
+{
+  "parts": {
+    "lxin": {
+      "position": {
+        "index": 43,
+        "x": -240,
+        "y": -20,
+        "z": -10,
+        "type": 0
+      },
+      "rotate": {
+        "index": 43,
+        "x": -240,
+        "y": -20,
+        "type": 1
+      },
+      "scale": {
+        "x": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        },
+        "y": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        }
+      },
+      "zPosition": 1,
+      "frameCount": 96,
+      "stickerCount": 96,
+      "speed": 1,
+      "width": 159,
+      "height": 176,
+      "loopType": 0,
+      "loopCount": -1,
+      "triggerStart": 0,
+      "triggerStop": 2
+    },
+    "tuhuxu": {
+      "position": {
+        "index": 46,
+        "x": 0,
+        "y": -20,
+        "z": -10,
+        "type": 0
+      },
+      "rotate": {
+        "index": 46,
+        "x": 0,
+        "y": -20,
+        "type": 1
+      },
+      "scale": {
+        "x": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        },
+        "y": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        }
+      },
+      "zPosition": 2,
+      "frameCount": 65,
+      "stickerCount": 65,
+      "speed": 1,
+      "width": 600,
+      "height": 240,
+      "loopType": 0,
+      "loopCount": -1,
+      "triggerStart": 0,
+      "triggerStop": 2
+    },
+    "tuerduo": {
+      "position": {
+        "index": 43,
+        "x": 0,
+        "y": -300,
+        "z": 0,
+        "type": 0
+      },
+      "rotate": {
+        "index": 43,
+        "x": 0,
+        "y": -300,
+        "type": 1
+      },
+      "scale": {
+        "x": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        },
+        "y": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        }
+      },
+      "zPosition": 3,
+      "frameCount": 65,
+      "stickerCount": 65,
+      "speed": 1,
+      "width": 528,
+      "height": 352,
+      "loopType": 0,
+      "loopCount": -1,
+      "triggerStart": 0,
+      "triggerStop": 2
+    },
+    "rxin": {
+      "position": {
+        "index": 43,
+        "x": 248,
+        "y": -20,
+        "z": -10,
+        "type": 0
+      },
+      "rotate": {
+        "index": 43,
+        "x": 248,
+        "y": -20,
+        "type": 1
+      },
+      "scale": {
+        "x": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        },
+        "y": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        }
+      },
+      "zPosition": 4,
+      "frameCount": 96,
+      "stickerCount": 96,
+      "speed": 1,
+      "width": 159,
+      "height": 176,
+      "loopType": 0,
+      "loopCount": -1,
+      "triggerStart": 0,
+      "triggerStop": 2
+    }
+  },
+  "sections": [
+    {
+      "name": "s0",
+      "partslist": [
+        "lxin",
+        "tuhuxu",
+        "tuerduo",
+        "rxin"
+      ]
+    }
+  ],
+  "statemachine": [],
+  "initSectionName": "s0",
+  "version": "1.0"
+}

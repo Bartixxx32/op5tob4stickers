@@ -1,0 +1,134 @@
+{
+  "parts": {
+    "top": {
+      "position": {
+        "index": 43,
+        "x": 0,
+        "y": -370,
+        "z": 0,
+        "type": 0
+      },
+      "rotate": {
+        "index": 43,
+        "x": 0,
+        "y": -370,
+        "type": 1
+      },
+      "scale": {
+        "x": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        },
+        "y": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        }
+      },
+      "zPosition": 1,
+      "frameCount": 20,
+      "stickerCount": 20,
+      "speed": 1,
+      "width": 400,
+      "height": 320,
+      "loopType": 0,
+      "loopCount": -1,
+      "triggerStart": 0,
+      "triggerStop": 2
+    },
+    "wanzaizouwei": {
+      "position": {
+        "index": 0,
+        "x": 480,
+        "y": 840,
+        "z": 0,
+        "type": 1
+      },
+      "rotate": {
+        "index": 43,
+        "x": 0,
+        "y": 0,
+        "type": 0
+      },
+      "scale": {
+        "x": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        },
+        "y": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        }
+      },
+      "zPosition": 0,
+      "frameCount": 108,
+      "stickerCount": 108,
+      "speed": 1,
+      "width": 960,
+      "height": 1680,
+      "loopType": 0,
+      "loopCount": -1,
+      "triggerStart": 1,
+      "triggerStop": 2
+    },
+    "huxu": {
+      "position": {
+        "index": 46,
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "type": 0
+      },
+      "rotate": {
+        "index": 46,
+        "x": 0,
+        "y": 0,
+        "type": 1
+      },
+      "scale": {
+        "x": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        },
+        "y": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        }
+      },
+      "zPosition": 3,
+      "frameCount": 4,
+      "stickerCount": 4,
+      "speed": 1,
+      "width": 213,
+      "height": 89,
+      "loopType": 0,
+      "loopCount": -1,
+      "triggerStart": 0,
+      "triggerStop": 2
+    }
+  },
+  "sections": [
+    {
+      "name": "s0",
+      "partslist": [
+        "top",
+        "wanzaizouwei",
+        "huxu"
+      ]
+    }
+  ],
+  "statemachine": [],
+  "initSectionName": "s0",
+  "version": "1.0"
+}

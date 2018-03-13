@@ -1,0 +1,54 @@
+{
+  "parts": {
+    "huzi": {
+      "position": {
+        "index": 93,
+        "x": 0,
+        "y": 20,
+        "z": 0,
+        "type": 0
+      },
+      "rotate": {
+        "index": 93,
+        "x": 0,
+        "y": 20,
+        "type": 1
+      },
+      "scale": {
+        "x": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        },
+        "y": {
+          "type": 1,
+          "indexA": 37,
+          "indexB": 38,
+          "min": 0.5
+        }
+      },
+      "zPosition": 1,
+      "frameCount": 1,
+      "stickerCount": 1,
+      "speed": 1,
+      "width": 462,
+      "height": 412,
+      "loopType": 0,
+      "loopCount": -1,
+      "triggerStart": 0,
+      "triggerStop": 2
+    }
+  },
+  "sections": [
+    {
+      "name": "s0",
+      "partslist": [
+        "huzi"
+      ]
+    }
+  ],
+  "statemachine": [],
+  "initSectionName": "s0",
+  "version": "1.0"
+}
